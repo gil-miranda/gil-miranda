@@ -1,11 +1,11 @@
-### Hi there, I'm Gil, an Applied Math student @ UFRJ
+### :wave: Hi there, I'm Gil, an Applied Math student @ UFRJ
 My personal website is [http://mirandagil.github.io]
 
 ### 📫 How to reach me
 Email: gil@matematica.ufrj.br<br>
 Linkedin: https://www.linkedin.com/in/gil-miranda-87a55370/
 
-### Languages and Tools:
+### :desktop_computer: Languages and Tools:
 <img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/python.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/cpp.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/html.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/css.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/js.png"><br>
 <img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/linux.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/visual.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/jupyter.png">
 
