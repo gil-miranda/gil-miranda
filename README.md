@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 ### Hi there, I'm Gil, an Applied Math student @ UFRJ
 My personal website can be reached [here][http://mirandagil.github.io]
 
