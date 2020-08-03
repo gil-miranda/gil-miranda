@@ -1,5 +1,5 @@
-### :wave: Hi there, I'm Gil, an Applied Math student @ UFRJ
-My personal website is [http://mirandagil.github.io]
+### :wave: Hi there, I'm Gil, an Applied Mathematics student @ UFRJ
+My personal website is http://mirandagil.github.io
 
 ### 📫 How to reach me
 Email: gil@matematica.ufrj.br<br>
