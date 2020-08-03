@@ -1,17 +1,20 @@
 ### Hi there, I'm Gil, an Applied Math student @ UFRJ
 My personal website is [http://mirandagil.github.io]
 
-### You can reach me on
+### 📫 How to reach me
 Email: gil@matematica.ufrj.br<br>
 Linkedin: https://www.linkedin.com/in/gil-miranda-87a55370/
 
 ### Languages and Tools:
-<img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/python.png"><br>
-<img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/numpy.png" width = "46"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/pandas.png" width = "46"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/matplotlib.png" width = "46">
----
-<img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/cpp.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/html.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/css.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/js.png"><br>
+<img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/python.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/cpp.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/html.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/css.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/js.png"><br>
 <img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/linux.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/visual.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/jupyter.png">
 
+
+## 🔭 I’m currently working on
+ - An agent-based epidemics modelling on the city of Rio de Janeiro - episiming
+
+## ⚡ I've worked on
+ - Mathematical Methods on Geometric Mechanics - Undergraduate Research - https://github.com/mirandagil/geometric-mechanics
 <!--
 **mirandagil/mirandagil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
