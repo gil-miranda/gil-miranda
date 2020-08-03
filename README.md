@@ -6,8 +6,8 @@ Email: gil@matematica.ufrj.br<br>
 Linkedin: https://www.linkedin.com/in/gil-miranda-87a55370/
 
 ### :desktop_computer: Languages and Tools:
-<img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/python.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/cpp.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/html.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/css.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/js.png"><br>
-<img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/linux.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/visual.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/jupyter.png"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/LaTeX.png" width="46">
+<img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/python.png" width="36"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/cpp.png" width="36"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/html.png" width="36"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/css.png" width="36"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/js.png" width="36"><br>
+<img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/linux.png" width="36"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/visual.png" width="36"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/jupyter.png" width="36"><img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/LaTeX.png" width="36">
 
 
 ## 🔭 I’m currently working on
