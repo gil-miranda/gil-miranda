@@ -2,13 +2,13 @@
 My personal website is http://mirandagil.github.io
 
 ### 📫 How to reach me
-Email: gil@matematica.ufrj.br<br>
-Linkedin: https://www.linkedin.com/in/gil-miranda-87a55370/
-
+[![Email](https://img.shields.io/badge/gil@matematica.ufrj.br-White?style=for-the-badge&logo=gmail&color=BE0030&logoColor=white)](mailto:gil@matematica.ufrj.br)
+[![Linkedin](https://img.shields.io/badge/Linkedin-White?style=for-the-badge&logo=linkedin&color=BE0030&logoColor=white)](https://www.linkedin.com/in/gil-miranda-87a55370/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-White?style=for-the-badge&logo=kaggle&color=BE0030&logoColor=white)](https://www.kaggle.com/mirandagil)                                                                                                                  
+                                                                                                                    
 ### :desktop_computer: Languages and Tools:
-<img src="https://img.shields.io/badge/Python-White?style=flat-square&logo=python&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/C++-White?style=flat-square&logo=c++&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/HTML-White?style=flat-square&logo=html&color=276DC3&logoColor=white"> <img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/3.png"> <img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/4.png"> <img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/7.png"> <img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/9.png"><br>
-<img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/10.png"> <img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/6.png"> <img src="https://raw.githubusercontent.com/mirandagil/mirandagil/master/8.png">
-
+<img src="https://img.shields.io/badge/Python-White?style=plastic&logo=python&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/C++-White?style=plastic&logo=c&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/HTML-White?style=plastic&logo=html5&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-White?style=plastic&logo=javascript&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/CSS-White?style=plastic&logo=css3&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/LaTeX-White?style=plastic&logo=latex&color=276DC3&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Arch Linux-White?style=plastic&logo=arch-linux&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-White?style=plastic&logo=visual-studio-code&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-White?style=plastic&logo=jupyter&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/Git-White?style=plastic&logo=git&color=276DC3&logoColor=white">
 ## 🔭 I’m currently working on
  - An agent-based epidemics modelling on the city of Rio de Janeiro - episiming
 
