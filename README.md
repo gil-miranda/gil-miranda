@@ -9,6 +9,7 @@ I am interested in everything that connects Maths and Coding, but mostly on Mach
 <img src="https://img.shields.io/badge/Arch Linux-White?style=plastic&logo=arch-linux&color=00B057&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-White?style=plastic&logo=visual-studio-code&color=00B057&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-White?style=plastic&logo=jupyter&color=00B057&logoColor=white"> <img src="https://img.shields.io/badge/Git-White?style=plastic&logo=git&color=00B057&logoColor=white">
 ## 🔭 I’m currently working on
  - An agent-based epidemics modelling on the city of Rio de Janeiro, being built with Python and Julia - episiming
+ - Hybrid Dynamic Models: Adding Machine Learning to Differential Equations - Undergraduate Research
 
 ## ⚡ I've worked on
  - Mathematical Methods on Geometric Mechanics - Undergraduate Research - https://github.com/mirandagil/geometric-mechanics
