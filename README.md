@@ -8,7 +8,7 @@ I am interested in everything that connects Maths and Coding, but mostly on Mach
 <img src="https://img.shields.io/badge/Python-White?style=plastic&logo=python&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/Julia-White?style=plastic&logo=julia&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/C++-White?style=plastic&logo=C%2B%2B&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/HTML-White?style=plastic&logo=html5&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-White?style=plastic&logo=javascript&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/CSS-White?style=plastic&logo=css3&color=276DC3&logoColor=white"> <img src="https://img.shields.io/badge/LaTeX-White?style=plastic&logo=latex&color=276DC3&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Arch Linux-White?style=plastic&logo=arch-linux&color=00B057&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-White?style=plastic&logo=visual-studio-code&color=00B057&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-White?style=plastic&logo=jupyter&color=00B057&logoColor=white"> <img src="https://img.shields.io/badge/Git-White?style=plastic&logo=git&color=00B057&logoColor=white">
 ## 🔭 I’m currently working on
- - An agent-based epidemics modelling on the city of Rio de Janeiro, being built with Python and Julia - episiming
+ - An agent-based epidemics modelling on the city of Rio de Janeiro, being built with Python and Julia, to be published as a package - episiming
  - Scientific Machine Learning: Adding Machine Learning to Differential Equations - Undergraduate Research
 
 ## ⚡ I've worked on
