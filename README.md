@@ -1,6 +1,7 @@
 # :wave: Hi there, I'm Gil
 I am currently pursuing my bachelor of Applied Mathematics with Emphasis on Scientific Computing at [UFRJ](http://www.ufrj.br).
 I am interested in everything that connects Maths and Coding, but mostly on Machine Learning.
+My undergraduate research concentrates on the field of Neural Networks and Hybrid Models, connecting Neural Networks to Differential Equations
 
 ### 📫 How to reach me
 [![Email](https://img.shields.io/badge/gil@matematica.ufrj.br-White?style=for-the-badge&logo=gmail&color=BE0030&logoColor=white)](mailto:gil@matematica.ufrj.br) [![Linkedin](https://img.shields.io/badge/Linkedin-White?style=for-the-badge&logo=linkedin&color=BE0030&logoColor=white)](https://www.linkedin.com/in/gil-miranda-87a55370/) [![Kaggle](https://img.shields.io/badge/Kaggle-White?style=for-the-badge&logo=kaggle&color=BE0030&logoColor=white)](https://www.kaggle.com/mirandagil)                                               
