@@ -1,5 +1,7 @@
 # :wave: Hi there, I'm Gil
 I am currently pursuing my bachelor of Applied Mathematics with Emphasis on Scientific Computing at [UFRJ](http://www.ufrj.br).
+I am also an Analytics & Development Intern at Voltalia.
+
 I am interested in everything that connects Maths and Coding, but mostly on Machine Learning.
 My undergraduate research concentrates on the field of Neural Networks and Hybrid Models, connecting Neural Networks to Differential Equations
 
