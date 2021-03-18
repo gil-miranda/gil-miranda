@@ -13,7 +13,7 @@ My undergraduate research concentrates on the field of Neural Networks and Hybri
 
 ## Cool projects you might want to check
  - [myBlog](http://mirandagil.github.io/blog) My blog where I share some posts and insights about mathematics and computing
- - [NeuralNet.jl](github.com/mirandagil/neuralNet.jl) A Neural Network implemented from scratch in `Julia`
+ - [NeuralNet.jl](http://www.github.com/mirandagil/neuralNet.jl) A Neural Network implemented from scratch in `Julia`
 
 ## 🔭 I’m currently working on
  - An agent-based epidemics modelling on the city of Rio de Janeiro, being built with Python and Julia, to be published as a package - episiming
