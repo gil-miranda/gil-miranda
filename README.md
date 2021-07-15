@@ -1,9 +1,30 @@
 # :wave: Hi there, I'm Gil
-I am currently pursuing my bachelor of Applied Mathematics with Emphasis on Scientific Computing at [UFRJ](http://www.ufrj.br).<br>
-I am an Analytics & Development Intern at Voltalia.
 
-I am interested in everything that connects Maths and Coding, but mostly on Machine Learning.
-My undergraduate research concentrates on the field of Neural Networks and Hybrid Models, connecting Neural Networks to Differential Equations
+I am a `Data Aficionado` and a `Math Enthusiast`
+
+Right now I'm working @ Globo, outsourced by Storm Group as a `Junior Data Scientist`
+
+I am currently pursuing my bachelor of Applied Mathematics with Emphasis on Scientific Computing at [UFRJ](http://www.ufrj.br).<br> <br>
+
+My main focus of studies are the fields of computation, algorithms, statistics, optimization and of course, artificial neural networks and machine learning<br>
+I am interested in everything that connects Maths and Coding, but mostly on Machine Learning.<br>
+My undergraduate research concentrates on the field of Neural Networks and Hybrid Models, connecting Neural Networks to Differential Equations.<br>
+
+## Professional History
+
+- Full time Data Scientist at Globo/StormGroup. 07/2021 to now
+- I worked as a Full Stack (React & Django) and Data Analyst Intern at Voltalia. 03/2021 to 07/2021
+
+## Academic History
+
+
+### 🔭 I’m currently working on
+ - Scientific Machine Learning: Adding Machine Learning to Differential Equations - Undergraduate Research
+ - Artificial Neural Networks and the problem of learning periodic signals - Research group
+
+### ⚡ I've worked on
+ - Mathematical Methods on Geometric Mechanics - Undergraduate Research - https://github.com/mirandagil/geometric-mechanics
+ - An agent-based epidemics modelling on the city of Rio de Janeiro, being built with Python and Julia, to be published as a package - episiming
 
 ### 📫 How to reach me
 [![Email](https://img.shields.io/badge/gil@matematica.ufrj.br-White?style=for-the-badge&logo=gmail&color=BE0030&logoColor=white)](mailto:gil@matematica.ufrj.br) [![Linkedin](https://img.shields.io/badge/Linkedin-White?style=for-the-badge&logo=linkedin&color=BE0030&logoColor=white)](https://www.linkedin.com/in/gil-miranda-87a55370/) [![Kaggle](https://img.shields.io/badge/Kaggle-White?style=for-the-badge&logo=kaggle&color=BE0030&logoColor=white)](https://www.kaggle.com/mirandagil)                                               
@@ -15,12 +36,8 @@ My undergraduate research concentrates on the field of Neural Networks and Hybri
  - [myBlog](http://mirandagil.github.io/blog) My blog where I share some posts and insights about mathematics and computing
  - [NeuralNet.jl](http://www.github.com/mirandagil/neuralNet.jl) A Neural Network implemented from scratch in `Julia`
 
-## 🔭 I’m currently working on
- - An agent-based epidemics modelling on the city of Rio de Janeiro, being built with Python and Julia, to be published as a package - episiming
- - Scientific Machine Learning: Adding Machine Learning to Differential Equations - Undergraduate Research
 
-## ⚡ I've worked on
- - Mathematical Methods on Geometric Mechanics - Undergraduate Research - https://github.com/mirandagil/geometric-mechanics
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirandagil" alt="mirandagil" /></a> </p>
