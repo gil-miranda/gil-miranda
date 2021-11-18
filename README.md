@@ -2,7 +2,7 @@
 
 I am a `Data Aficionado` and a `Math Enthusiast`
 
-Right now I'm working @ Globo, outsourced by Storm Group as a `Junior Data Analyst` where I extract bussiness insights to optmize process, product and more through beautiful `Data Visualization` and `Dashboards`.
+Right now I'm working @ Globo, as a `Data Scientist` where I extract bussiness insights to optmize process, product and more through beautiful `Data Visualization` and `Dashboards`.
 
 I am currently pursuing my bachelor of Applied Mathematics with Emphasis on Scientific Computing at [UFRJ](http://www.ufrj.br).<br> <br>
 
