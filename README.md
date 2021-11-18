@@ -12,7 +12,8 @@ My undergraduate research concentrates on the field of Neural Networks and Hybri
 
 ## Professional History
 
-- Full time Data Scientist at Globo/StormGroup. 07/2021 to now
+- Full time Product Data Scientist at Globo. 12/2021 to now
+- Full time Data Analyst at StormGroup outsourced to Globo. 07/2021 to 11/2021
 - I worked as a Full Stack (React & Django) and Data Analyst Intern at Voltalia. 03/2021 to 07/2021
 
 ## Academic History
