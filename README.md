@@ -2,7 +2,7 @@
 
 I am a `Data Aficionado` and a `Math Enthusiast`
 
-Right now I'm working @ Globo, as a `Data Scientist` where I extract bussiness insights to optmize process, product and more through beautiful `Data Visualization` and `Dashboards`.
+Right now I'm working @ Globo, as a `Product Data Scientist` where I extract bussiness insights to optmize process, product and more through beautiful `Data Visualization` and `Dashboards`.
 
 I am currently pursuing my bachelor of Applied Mathematics with Emphasis on Scientific Computing at [UFRJ](http://www.ufrj.br).<br> <br>
 
@@ -26,12 +26,13 @@ Throughout my undergrad studies I've always been close to scientific research, t
 - I also enjoy studying some pure maths such as Analysis, Theory of Linear Algebra, etc.
 
 ### 🔭 I’m currently working on
- - Scientific Machine Learning: Adding Machine Learning to Differential Equations - Undergraduate Research
- - Artificial Neural Networks and the problem of learning periodic signals - Research group
+ - And end-to-end MLOps Project: https://github.com/Schots/mlops_project
 
 ### ⚡ I've worked on
+ - Scientific Machine Learning: Adding Machine Learning to Differential Equations - Undergraduate Research
  - Mathematical Methods on Geometric Mechanics - Undergraduate Research - https://github.com/mirandagil/geometric-mechanics
  - An agent-based epidemics modelling on the city of Rio de Janeiro, being built with Python and Julia, to be published as a package - episiming
+ - Artificial Neural Networks and the problem of learning periodic signals - Research group
 
 ### 📫 How to reach me
 [![Email](https://img.shields.io/badge/gil@matematica.ufrj.br-White?style=for-the-badge&logo=gmail&color=BE0030&logoColor=white)](mailto:gil@matematica.ufrj.br) [![Linkedin](https://img.shields.io/badge/Linkedin-White?style=for-the-badge&logo=linkedin&color=BE0030&logoColor=white)](https://www.linkedin.com/in/gil-miranda-87a55370/) [![Kaggle](https://img.shields.io/badge/Kaggle-White?style=for-the-badge&logo=kaggle&color=BE0030&logoColor=white)](https://www.kaggle.com/mirandagil)                                               
