@@ -2,9 +2,9 @@
 
 I am a `Data Aficionado` and a `Math Enthusiast`
 
-Right now I'm working @ Globo, as a `Product Data Scientist` where I extract bussiness insights to optmize process, product and more through beautiful `Data Visualization` and `Dashboards`.
+Right now I'm working @ Globo, as a `Product Data Scientist`& `Software Developer` where I extract bussiness insights to optmize process, product and more through beautiful `Data Visualization`, `Dashboards` and `Automations`
 
-I am currently pursuing my bachelor of Applied Mathematics with Emphasis on Scientific Computing at [UFRJ](http://www.ufrj.br).<br> <br>
+I graduated from [UFRJ](http://www.ufrj.br) in Applied Mathematics with Emphasis on Scientific Computing.<br> <br>
 
 My main focus of studies are the fields of computation, algorithms, statistics, optimization and of course, artificial neural networks and machine learning<br>
 I am interested in everything that connects Maths and Coding, but mostly on Machine Learning.<br>
