@@ -1,29 +1,24 @@
 # :wave: Hi there, I'm Gil
+#### Data Aficionado | Math Enthusiast | Analytics Engineer | Business Analyst
 
-I am a `Data Aficionado` and a `Math Enthusiast`
+I am passionate about leveraging the power of data and mathematical insights to optimize processes, products, and drive business growth. Currently, I am working as an Analytics Engineer & Business Analyst at XP Inc.
+<br>
+I hold a degree in Applied Mathematics with an emphasis on Scientific Computing from UFRJ. My interests include computation, algorithms, statistics, optimization, artificial neural networks, and machine learning. My undergraduate research involved connecting Neural Networks to Differential Equations through the development of hybrid models.
 
-Right now I'm working @ Globo, as a `Product Data Scientist`& `Software Developer` where I extract bussiness insights to optmize process, product and more through beautiful `Data Visualization`, `Dashboards` and `Automations`
+## Professional Experience
+- Analytics Engineer & Business Analyst at XP Inc (07/2022 - Present)
+- Data Analyst at Globo (12/2021 - 07/2022)
+- Data Analyst at StormGroup (outsourced to Globo) (07/2021 - 11/2021)
+- Full Stack (React & Django) and Data Analyst Intern at Voltalia (03/2021 - 07/2021)
 
-I graduated from [UFRJ](http://www.ufrj.br) in Applied Mathematics with Emphasis on Scientific Computing.<br> <br>
-
-My main focus of studies are the fields of computation, algorithms, statistics, optimization and of course, artificial neural networks and machine learning<br>
-I am interested in everything that connects Maths and Coding, but mostly on Machine Learning.<br>
-My undergraduate research concentrates on the field of Neural Networks and Hybrid Models, connecting Neural Networks to Differential Equations.<br>
-
-## Professional History
-
-- Full time Product Data Scientist at Globo. 12/2021 to now
-- Full time Data Analyst at StormGroup outsourced to Globo. 07/2021 to 11/2021
-- I worked as a Full Stack (React & Django) and Data Analyst Intern at Voltalia. 03/2021 to 07/2021
-
-## Academic History
-Throughout my undergrad studies I've always been close to scientific research, topics I have most connection are:
+## Academic Background
+During my undergraduate studies, I actively participated in scientific research. My main areas of interest include:
 - Scientific Computing (algorithms)
 - Statistics
 - Probability Theory
 - Regression and Classification models
 - Fundamental theory of Neural Networks/Deep Learning
-- I also enjoy studying some pure maths such as Analysis, Theory of Linear Algebra, etc.
+- Pure mathematics, such as Analysis and Theory of Linear Algebra
 
 ### 🔭 I’m currently working on
  - And end-to-end MLOps Project: https://github.com/Schots/mlops_project
@@ -44,18 +39,3 @@ Throughout my undergrad studies I've always been close to scientific research, t
  - [myBlog](http://mirandagil.github.io/blog) My blog where I share some posts and insights about mathematics and computing
  - [NeuralNet.jl](http://www.github.com/mirandagil/neuralNet.jl) A Neural Network implemented from scratch in `Julia`
  - [ISLR](http://www.github.com/mirandagil/ISLR) Working through "Introduction to Statistical Learning" theory, examples, exercises and algorithm
-
-<!--
-**mirandagil/mirandagil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
